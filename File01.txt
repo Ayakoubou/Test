@@ -1,0 +1,6 @@
+dir
+cd.
+dir
+C:\User\Amoud\Git_Test
+C:\User\Amoud\Git_Test>dir
+cd
