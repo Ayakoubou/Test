@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MASTER
+=======
+hallihallo mein name ist lisa 
+>>>>>>> feature
